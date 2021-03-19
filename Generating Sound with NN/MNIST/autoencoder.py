@@ -15,7 +15,6 @@ from torch.nn import functional as F
         #                                      #
         ########################################
 
-
 class AutoEncoder(nn.Module):
 
     def __init__(self):
